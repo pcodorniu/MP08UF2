@@ -23,7 +23,7 @@ Si algun dia hi ha un problema amb una de les còpies de seguretat podem estar t
 **2-El pressupost mensual i anual de la despesa del servei a contractar.**
 Aquest és el nostre pressupost, en la captura podem observar que per més ens val 9,36€
 
-
+![](Act1.png)
 
 
 
