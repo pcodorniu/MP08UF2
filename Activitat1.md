@@ -16,14 +16,62 @@
 ---
 
 **1-Perquè penseu que aquesta és una bona solució al nostre problema.**
+
 El meu grup i jo creiem que sí que és una bona idea, perquè podem tenir una còpia de seguretat físicament en un disc dur i també la podem tenir al núvol.
 Si algun dia hi ha un problema amb una de les còpies de seguretat podem estar tranquils perquè sabem que tenim una altra guardada.
 
 
 **2-El pressupost mensual i anual de la despesa del servei a contractar.**
+
 Aquest és el nostre pressupost, en la captura podem observar que per més ens val 9,36€
 
-![](Act1.png)
+![](act1.png)
+
+**3-Guia de creació de l’usuari administrador/a i usuari/a (Feu servir els comptes de correu de l’Institut).**
+
+L’usuari administrador, que en el nostre cas és David ha de crear una nova carpeta.
+
+![](Act2.png)
+
+Una vegada creada hem de fer les dos “Unitats” la de Backup i la de Documents, que sols l’administrador té permisos d’edició.
+
+![](Act3.png)
+
+I com podem veure l’administrador té permissos a tot i l’usuari sols té permissos de lectura.
+
+**4-Guia de creació de les unitats compartides BACKUP i DOCUMENTS on es vegin els permisos assignats a cada tipus d’usuari/a.**
+
+Primer creem les carpetes Backup i Documents
+
+![](act4.png)
+
+
+Una vegada creades posem els permisos per als usuaris Administrador i Usuaris.
+
+![](act5.png)
+
+**5-Guia d’instal·lació d’adreces directes als escriptoris dels dos tipus d’usuaris:** Administrador/a i usuari/a.
+
+El primer que hem de fer es obrir el paràmetres de l’ordinador i anem a “comptes en linea”.
+
+![](act6.png)
+
+Ens connectarem a google amb la cuenta de l’institut.
+
+![](act7.png)
+
+Desprès d’inicia sessió li donem a permetre
+
+![](act12.png)
+
+Aqui decidirem què volem que ens aparèixer, en el nostre cas sol volem els fitxers
+
+![](act9.png)
+
+Ara en apareixerà el nostre drive a les carpetes del nostre ordinador.
+
+![](act10.png)
+
 
 
 
