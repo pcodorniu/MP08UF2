@@ -72,8 +72,8 @@ Ara en apareixerà el nostre drive a les carpetes del nostre ordinador.
 
 ![](act10.png)
 
+Entrem dins de la carpeta on tenim la nostra copia de seguretat i ho arrastrem a la vora per a poder accedir més ràpid
 
-
-
+![](act11.png)
 
 
