@@ -76,4 +76,38 @@ Entrem dins de la carpeta on tenim la nostra copia de seguretat i ho arrastrem a
 
 ![](act11.png)
 
+Quedaria així.
+
+![](act13.png)
+
+**6-Exemples d’ús de fer un backup per part de l’administrador/a.**
+
+Per poder fer un backup d’alguna cosa primer hem de fer una carpeta amb el nom de Còpia de Seguretat 001.
+
+![](act14.png)
+
+Després li donem a Comprimeix…
+
+![](act15.png)
+
+I finalment ho movem a Backup.
+
+![](act16.png)
+
+**7-Exemples d’ús de consultar un document per part de l’usuari/a.**
+
+Entrem dins de la carpeta de Documents i entrem dins del document que es diu “exemple”
+
+![](act17.png)
+
+Sol puc visualitzar el document, no puc editar.
+
+![](act18.png)
+
+**8-Comproveu si un usuari/a pot eliminar sense voler algun document.**
+
+Si un usuari entra a la carpeta de Backup i intentar eliminar algo li apareixerà bloquejat perquè no té els permisos.
+
+![](act19.png)
+
 
