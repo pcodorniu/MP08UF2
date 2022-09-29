@@ -9,9 +9,9 @@ Apache guarda els fitxers a /var/www/html/index.html
 
 
 
-### Instal·lació:
+### Instal·lació Apache:
 
-Primer instal·larem el servidor apache2, utilitzarem la comanda 
+Primer instal·larem el servidor apache2,  
 ```
 sudo apt install apache2
 ``` 
@@ -23,7 +23,9 @@ sudo sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apac
 ```
 ![image](https://user-images.githubusercontent.com/114162276/193052841-762c07f8-a820-488d-9852-c6335c7022d2.png)
 
-Ara instal·larem la base de dades MariaDB
+### Instal·lació MariaDB:
+
+Ara instal·larem MariaDB
 ``` 
 sudo apt-get install mariadb-server mariadb-client -y
 ```
@@ -57,6 +59,59 @@ sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart
 
 ```
 ![image](https://user-images.githubusercontent.com/114162276/193057371-5693cc58-1d32-444b-9426-126c3d590932.png)
+
+### Crea la base de dades de Owncloud:
+
+Entrem a MariaDB
+``` 
+sudo mysql -u root -p
+
+```
+![image](https://user-images.githubusercontent.com/114162276/193058491-0964049d-4dbd-471a-bf72-214a66a263f7.png)
+
+Creem la base de dades
+``` 
+CREATE DATABASE owncloud;
+```
+![image](https://user-images.githubusercontent.com/114162276/193059063-606c3313-5396-4dd7-9a7c-3584214eae88.png)
+
+Creem un usuari que es dira **ownclouduser** amb una contrasenya, per exemple **Admin1234**
+``` 
+CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';
+
+```
+![image](https://user-images.githubusercontent.com/114162276/193059746-d776374b-28a6-43d5-a228-539d99ec3983.png)
+
+Li donem accés a l'usuari a la base de dades que hem creat
+``` 
+GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;
+```
+![image](https://user-images.githubusercontent.com/114162276/193060087-22bf7bd7-8a43-4122-ad7a-5e43918bd69a.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
