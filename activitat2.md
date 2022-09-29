@@ -88,21 +88,80 @@ GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' 
 ```
 ![image](https://user-images.githubusercontent.com/114162276/193060087-22bf7bd7-8a43-4122-ad7a-5e43918bd69a.png)
 
+Apliquem els canvis i guardem
+``` 
+FLUSH PRIVILEGES;
+EXIT;
+```
+![image](https://user-images.githubusercontent.com/114162276/193060420-0bec8a4a-1367-488f-ba89-d81a1cb35811.png)
 
+### Instal·lació PHP i els seus moduls necessaris:
 
+Instal·lem el PHP i creem un repository per a ell
+``` 
+sudo apt-get install software-properties-common -y
+sudo add-apt-repository ppa:ondrej/php
 
+```
+![image](https://user-images.githubusercontent.com/114162276/193062168-fac83f67-b6c5-48f9-bebe-6b7dfd600281.png)
 
+Actualitzem els paquets afegits
+``` 
+sudo apt update
+```
+![image](https://user-images.githubusercontent.com/114162276/193062589-67286fd5-7590-40f0-be44-6f3542267107.png)
 
+Instal·lem el PHP i els seus moduls necessaris
+``` 
+sudo apt install php7.4 libapache2-mod-php7.4 php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-apcu php7.4-smbclient php7.4-ldap php7.4-redis php7.4-gd php7.4-xml php7.4-intl php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcrypt php7.4-ldap php7.4-zip php7.4-curl -y
+```
+![image](https://user-images.githubusercontent.com/114162276/193063242-9f4ff3f6-3a59-4fea-b226-c700806bb8bd.png)
 
+Ara editem el fitxer **php.ini** i canviem algunes coses
+El podem obri amb **nano** i s'obrira al terminal o amb **gedit** i s'obrira a un bloc de notes
+``` 
+sudo nano /etc/php/7.4/apache2/php.ini
+```
+![image](https://user-images.githubusercontent.com/114162276/193064158-54c39484-7d15-442f-a497-02432053b7d0.png)
 
+Els valors que hem de canvia son els següents:
+**file_uploads = On allow_url_fopen = On memory_limit = 256M upload_max_filesize = 100M display_errors = Off date.timezone = Europe/Madrid**
 
+![image](https://user-images.githubusercontent.com/114162276/193064739-71f6c78d-aeab-42e6-943f-e1328e83a2b8.png)
 
+![image](https://user-images.githubusercontent.com/114162276/193064987-56b8fe59-e1c0-4171-be1f-4b51f8b1ae1e.png)
 
+![image](https://user-images.githubusercontent.com/114162276/193065132-eeed8f8d-f924-43a0-a1fc-5d345d7458f0.png)
 
+![image](https://user-images.githubusercontent.com/114162276/193065270-78d601b6-b6d8-4c33-957e-214600e095c2.png)
 
+![image](https://user-images.githubusercontent.com/114162276/193066569-3f560bbc-fb8a-4dd1-ab74-f11410a853b4.png)
 
+Quan hem acabat guardem
 
+### Instal·lem Owncloud:
 
+Descarguem l'ultima versio del programa, descomprimim els fitxers i els movem a de Owncloud a /var/www/html/owncloud.
+``` 
+cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip
+unzip owncloud-10.0.8.zip
+sudo mv owncloud /var/www/html/owncloud/
+
+```
+![image](https://user-images.githubusercontent.com/114162276/193067653-596691f7-a861-4b88-9d8a-2a46c51b9ce9.png)
+
+![image](https://user-images.githubusercontent.com/114162276/193067730-78dd00f8-0545-4bae-8582-3ab8a113d5b9.png)
+
+![image](https://user-images.githubusercontent.com/114162276/193067839-91ba07a8-b0d2-4cf3-a06d-2e0a8fb9d23a.png)
+
+Canviem el propietari i els permisos dels directoris de Owncloud, **www-data** per a que ho pugue utilitzar Apache i li posem 755 per a que qualsevol usuari de Linux pugui executar i llegir
+``` 
+sudo chown -R www-data:www-data /var/www/html/owncloud/
+sudo chmod -R 755 /var/www/html/owncloud/
+```
+![image](https://user-images.githubusercontent.com/114162276/193068703-7b1541bc-60c0-42db-ada2-4f0032bb1dc0.png)
+
+![image](https://user-images.githubusercontent.com/114162276/193068795-385a69ab-fdc4-49f3-8f40-1b1f8507d050.png)
 
 
 
