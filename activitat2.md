@@ -163,8 +163,11 @@ sudo chmod -R 755 /var/www/html/owncloud/
 
 ![image](https://user-images.githubusercontent.com/114162276/193068795-385a69ab-fdc4-49f3-8f40-1b1f8507d050.png)
 
-
-
+Ara canviarem el domini de la nostra pagina web sense utilitzar el DNS, utilitzarem la comanda nano o gedit /etc/hosts
+```
+sudo gedit /etc/hosts
+```
+![image](https://user-images.githubusercontent.com/114162276/194344192-e4bd13eb-8eb9-4f30-93ac-c37ecae6f992.png)
 
 
 
