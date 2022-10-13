@@ -177,14 +177,15 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 ```
 ![image](https://user-images.githubusercontent.com/114162276/195611403-a4e6b4bf-00b0-47dc-bb27-87891096f3d8.png)
 
---Virtualhost *:80 : aixo vol dir que el servidor contestara amb qualsevol ip, pel port 80
---ServerAdmin: aqui estar el correu de l'administrador del servidor
---DocumentRoot: 
---ServerName: aqui va el nom del nostre servidor
+- Virtualhost *:80 : aixo vol dir que el servidor contestara amb qualsevol ip, pel port 80
+- ServerAdmin: aqui estar el correu de l'administrador del servidor
+- DocumentRoot: es la ruta per defecte
+- ServerName: aqui va el nom del nostre servidor
+- ServerAlias: es un altre nom per al servidor que tambe podem utilitzar per a buscar-lo a internet 
 
+- Alias: 
 
-
-
+- Directory: tota la configuracio que esta dins del directori s'aplica a aquest
 
 
 
