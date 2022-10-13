@@ -175,6 +175,8 @@ Per a configurar l'Apache utilitzarem aquesta comanda per accedir a l'arxiu de c
 ```
 sudo nano /etc/apache2/sites-available/owncloud.conf
 ```
+![image](https://user-images.githubusercontent.com/114162276/195611403-a4e6b4bf-00b0-47dc-bb27-87891096f3d8.png)
+
 
 
 
