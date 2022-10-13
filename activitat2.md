@@ -169,7 +169,12 @@ sudo gedit /etc/hosts
 ```
 ![image](https://user-images.githubusercontent.com/114162276/194344192-e4bd13eb-8eb9-4f30-93ac-c37ecae6f992.png)
 
+### Configuració Apache:
 
+Per a configurar l'Apache utilitzarem aquesta comanda per accedir a l'arxiu de configuració
+```
+sudo nano /etc/apache2/sites-available/owncloud.conf
+```
 
 
 
