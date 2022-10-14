@@ -188,12 +188,22 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 - Directory: tota la configuracio que esta dins del directori s'aplica a aquest
 
 
+Habilitem el owncloud i el modul rewrite
+```
+sudo a2ensite owncloud.conf
+sudo a2enmod rewrite
+sudo a2enmod headers
+sudo a2enmod env
+sudo a2enmod dir
+sudo a2enmod mime
+```
+Reiniciem apache
+```
+sudo service Apache2 restart
+```
+Ara ja podem accedir a owncloud posan el nom del servidor al buscado
 
-
-
-
-
-
+ 
 
 
 
