@@ -220,7 +220,13 @@ Una vegada em trobat la ruta utilitzem la següent comanda per editar el fitxer
 sudo nano /var/www/html/owncloud/config/config.php
 
 ```
+Afegim el nostre domini
 
+![image](https://user-images.githubusercontent.com/114162276/195874377-ee56534a-5ec7-4a5c-a93d-be4eba50af40.png)
+
+Ara ja podem accedir al nostre owncloud
+
+![image](https://user-images.githubusercontent.com/114162276/195874582-ddbc1ac8-bf14-45e1-bdc5-e0ac19e9f947.png)
 
 
 
