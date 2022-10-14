@@ -201,13 +201,34 @@ sudo a2enmod mime
 
 Reiniciem apache
 ```
-sudo service Apache2 restart
+sudo service apache2 restart
 ```
 Ara ja podem accedir a owncloud posan el nom del servidor al buscado
 
 ![image](https://user-images.githubusercontent.com/114162276/195869004-19888a66-8d77-4dcf-916c-0b1873605795.png)
 
 Ens dira que la pagina no es segura per a canviar-ho tenim que entrar al fitxer "config.php"
+
+Primer buscarem on esta el fitxer "config-php", utilitzaren la comanda 
+```
+sudo find / -iname config.php
+```
+![image](https://user-images.githubusercontent.com/114162276/195873847-c7db5308-5f27-4c62-a4f0-a073bead956e.png)
+
+Una vegada em trobat la ruta utilitzem la següent comanda per editar el fitxer
+```
+sudo nano /var/www/html/owncloud/config/config.php
+
+```
+
+
+
+
+
+
+
+
+
 
 
 
