@@ -209,7 +209,7 @@ Ara ja podem accedir a owncloud posan el nom del servidor al buscado
 
 Ens dira que la pagina no es segura per a canviar-ho tenim que entrar al fitxer "config.php"
 
-Primer buscarem on esta el fitxer "config-php", utilitzaren la comanda 
+Primer buscarem on esta el fitxer "config.php", utilitzarem la comanda 
 ```
 sudo find / -iname config.php
 ```
