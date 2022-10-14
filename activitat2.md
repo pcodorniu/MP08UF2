@@ -197,13 +197,17 @@ sudo a2enmod env
 sudo a2enmod dir
 sudo a2enmod mime
 ```
+![image](https://user-images.githubusercontent.com/114162276/195873003-39f8cb85-a4bb-48fc-b4d1-541b3ad6bbe7.png)
+
 Reiniciem apache
 ```
 sudo service Apache2 restart
 ```
 Ara ja podem accedir a owncloud posan el nom del servidor al buscado
 
- 
+![image](https://user-images.githubusercontent.com/114162276/195869004-19888a66-8d77-4dcf-916c-0b1873605795.png)
+
+Ens dira que la pagina no es segura per a canviar-ho tenim que entrar al fitxer "config.php"
 
 
 
