@@ -186,7 +186,8 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 - Alias: 
 
 - Directory: tota la configuracio que esta dins del directori s'aplica a aquest
-
+- Options +Followsymlinks: es una directiva dels servidors d'Apache, serveix per a seguir els enllaços simbolics d'un directori
+- 
 
 Habilitem el owncloud i el modul rewrite
 ```
