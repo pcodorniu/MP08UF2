@@ -239,7 +239,7 @@ Aquesta comanda el que fa es habilitar un site o proporcionar una llista dels ll
 
 Aquesta comanda el que fa es deshabilitar un site o proporcionar una llista dels llocs que podem deshabilitar
 
--Què significa la línia de /etc/hosts?
+- Què significa la línia de /etc/hosts?
 
 Alli posarem el nom del nostre domini seguit de la seva IP, aixi quan el servidor busque aquella IP trobara el nom del domini que li hem especificat
 
