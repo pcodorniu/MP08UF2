@@ -237,7 +237,7 @@ Aquesta comanda el que fa es habilitar un site o proporcionar una llista dels ll
 
 - Què fa la comanda a2dissite?
 
-Aquesta comanda el que fa es deshabilitar un site o proporcionar una llista dels lloocs que podem deshabilitar
+Aquesta comanda el que fa es deshabilitar un site o proporcionar una llista dels llocs que podem deshabilitar
 
 -Què significa la línia de /etc/hosts?
 
