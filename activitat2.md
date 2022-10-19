@@ -231,8 +231,17 @@ Ara ja podem accedir al nostre owncloud
 
 ![image](https://user-images.githubusercontent.com/114162276/195874582-ddbc1ac8-bf14-45e1-bdc5-e0ac19e9f947.png)
 
+- Què fa la comanda a2ensite?
 
+Aquesta comanda el que fa es habilitar un site o proporcionar una llista dels llocs que podem habilitar
 
+- Què fa la comanda a2dissite?
+
+Aquesta comanda el que fa es deshabilitar un site o proporcionar una llista dels lloocs que podem deshabilitar
+
+-Què significa la línia de /etc/hosts?
+
+Alli posarem el nom del nostre domini seguit de la seva IP, aixi quan el servidor busque aquella IP trobara el nom del domini que li hem especificat
 
 
 
