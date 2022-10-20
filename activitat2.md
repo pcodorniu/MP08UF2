@@ -248,6 +248,8 @@ Aquesta comanda el que fa es deshabilitar un site o proporcionar una llista dels
 
 - Què significa la línia de /etc/hosts?
 
+127.0.0.1 owncloud.XYZ.com
+
 Alli posarem el nom del nostre domini seguit de la seva IP, aixi quan el servidor busque aquella IP trobara el nom del domini que li hem especificat
 
 
