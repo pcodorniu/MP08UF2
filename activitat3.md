@@ -61,7 +61,11 @@ Aixi quedaria la foto de perfil
 ![image](https://user-images.githubusercontent.com/114162276/196981802-dc3ffd1a-457e-4a91-bdcb-baf6d3eda2de.png)
 
 - Afegeix el teu mail de l'Institut.
+
+
 - Canvia l'idioma a català.
 - Mostra la versió d'Owncloud instal·lada.
 
-**RESPOSTA**
+![image](https://user-images.githubusercontent.com/114162276/196982012-0a0fbb6e-84d7-4ca7-b16a-1fa622b5f0f6.png)
+
+
