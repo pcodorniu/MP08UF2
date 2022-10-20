@@ -17,8 +17,9 @@ apache2ctl -S
 
 ![image](https://user-images.githubusercontent.com/110727546/194824543-c49bf482-ac93-432f-884c-d89487e587f3.png)
 
-
 **RESPOSTA**
+
+La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
 
 **3.3.-** Al directori **Learn more about owncloud** hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
