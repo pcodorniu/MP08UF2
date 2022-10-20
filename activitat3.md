@@ -56,6 +56,10 @@ Els HSM també estan disponibles com a programari
 
 ![image](https://user-images.githubusercontent.com/114162276/196980811-459c4b88-1796-4505-ac0d-15b8919966fb.png)
 
+Aixi quedaria la foto de perfil
+
+![image](https://user-images.githubusercontent.com/114162276/196981802-dc3ffd1a-457e-4a91-bdcb-baf6d3eda2de.png)
+
 - Afegeix el teu mail de l'Institut.
 - Canvia l'idioma a català.
 - Mostra la versió d'Owncloud instal·lada.
