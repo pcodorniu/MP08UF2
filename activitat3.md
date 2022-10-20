@@ -32,10 +32,13 @@ La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
 
 - Fes una petita descripció de cada un d'ells.
    - 1- Encryption in Transit:
-L'encriptació en trànsit és obligatòria sota el RGPD per a la protecció de dades, HSM o mòdul de seguretat de maquinari assegura que la clau principal només reaccioni a una petició de owncloud.
-Els HSM també estan disponibles com a programari
-
-
+      L'encriptació en trànsit és obligatòria sota el GPDR per a la protecció de dades.
+   - 2a- Encryption at Rest: 
+      L'encriptatge en repòs significa encriptar tots els fitxers desat des del servidor d'aplicacions             owncloud abans de desar-los a l'emmagatzematge real.
+   - 2b- Encryption at Rest with Master Key in Hardware Security Module (HSM):
+      Per tal d'excloure l'administrador del sistema de la capacitat de desxifrar fitxers, ownCloud permet         posar la clau maestra en un HSM.
+      Un HSM o un mòdul de seguretat de maquinari, que assegura que la clau mestra només reacciona
+      a petició de l'aplicació ownCloud.
 
 
 
