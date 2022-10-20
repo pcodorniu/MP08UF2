@@ -182,14 +182,17 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 - DocumentRoot: es la ruta per defecte
 - ServerName: aqui va el nom del nostre servidor
 - ServerAlias: es un altre nom per al servidor que tambe podem utilitzar per a buscar-lo a internet 
-
-- Alias: 
-
 - Directory: tota la configuracio que esta dins del directori s'aplica a aquest
 - Options +Followsymlinks: es una directiva dels servidors d'Apache, serveix per a seguir els enllaços simbolics d'un directori
 - Allowoveride all: es una opció que ens permet anul·lar alguns parametres d'Apache mitjançant un fitxer 
 - Require all granted: es una opció per al control d'accés, aquesta vol dir que l'accés estar incondicionalment permès
+- IfModule_mod_dav: és una extensió del protocol HTTP, ens permet crea, copiar, moure i suprimir recursos en un servidor web.
+- Dav off: Desactiva aquesta extensió
+- IfModule: tanca el bloc de la extensió
 - 
+
+
+
 
 Habilitem el owncloud i el modul rewrite
 ```
