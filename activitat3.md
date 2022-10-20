@@ -25,10 +25,10 @@ La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
 
 - Quin són els tres tipus de protecció de dades que ofereix Owncloud?
 
-1-  Encryption in Transit
-2a- Encryption at Rest
-2b- Encryption at Rest with Master Key in Hardware Security Module (HSM)
-3-  End-to-End Encryption
+- 1-  Encryption in Transit
+- 2a- Encryption at Rest
+- 2b- Encryption at Rest with Master Key in Hardware Security Module (HSM)
+- 3-  End-to-End Encryption
 
 
 
