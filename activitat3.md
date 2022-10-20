@@ -39,8 +39,9 @@ La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
       Per tal d'excloure l'administrador del sistema de la capacitat de desxifrar fitxers, ownCloud permet         posar la clau maestra en un HSM.
       Un HSM o un mòdul de seguretat de maquinari, que assegura que la clau mestra només reacciona
       a petició de l'aplicació ownCloud.
-   - 3- End-to-End Encryption
-
+   - 3- End-to-End Encryption: 
+      Si es perd la clau privada, les dades no es poden desxifrar d'una altra manera owncloud proporciona un       extrem a extrem.
+      Quan el connector està habilitat per a un usuari, aquest usuari pot xifrar qualsevol carpeta buida. 
 
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
 - Això passa a tots els països?
