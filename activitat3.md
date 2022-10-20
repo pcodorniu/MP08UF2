@@ -53,6 +53,9 @@ Els HSM també estan disponibles com a programari
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
 
 - Posa't una imatge d'usuari.
+
+![image](https://user-images.githubusercontent.com/114162276/196980811-459c4b88-1796-4505-ac0d-15b8919966fb.png)
+
 - Afegeix el teu mail de l'Institut.
 - Canvia l'idioma a català.
 - Mostra la versió d'Owncloud instal·lada.
