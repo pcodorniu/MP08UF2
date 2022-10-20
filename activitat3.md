@@ -10,6 +10,9 @@ apache2ctl -S
 
 **RESPOSTA**
 
+![image](https://user-images.githubusercontent.com/114162276/196968870-df6af995-405e-4dcb-8c88-42084d65becd.png)
+
+
 **3.2.-** A Owncloud podem veure que hi ha una serie de carpetes per defecte, mostra la ruta real a les tres carpetes dins de la teva MV.
 
 ![image](https://user-images.githubusercontent.com/110727546/194824543-c49bf482-ac93-432f-884c-d89487e587f3.png)
