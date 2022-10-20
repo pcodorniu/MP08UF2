@@ -24,6 +24,16 @@ La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
 **3.3.-** Al directori **Learn more about owncloud** hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
 - Quin són els tres tipus de protecció de dades que ofereix Owncloud?
+
+1-  Encryption in Transit
+2a- Encryption at Rest
+2b- Encryption at Rest with Master Key in Hardware Security Module (HSM)
+3-  End-to-End Encryption
+
+
+
+
+
 - Fes una petita descripció de cada un d'ells.
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
 - Això passa a tots els països?
