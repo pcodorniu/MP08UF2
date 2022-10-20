@@ -31,6 +31,14 @@ La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
    - 3-  End-to-End Encryption
 
 - Fes una petita descripció de cada un d'ells.
+   - 1- Encryption in Transit:
+L'encriptació en trànsit és obligatòria sota el RGPD per a la protecció de dades, HSM o mòdul de seguretat de maquinari assegura que la clau principal només reaccioni a una petició de owncloud.
+Els HSM també estan disponibles com a programari
+
+
+
+
+
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
 - Això passa a tots els països?
 - Quina és la llicència d'OWncloud Enterprise?
