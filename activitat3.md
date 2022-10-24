@@ -61,7 +61,7 @@ La llicència Stantard esta enfocada per a usuaris.
 
 - Es poden veure videos en Streaming directament des de Owncloud?
 
-
+Si, owncloud permet veure videos que estiguin allotjats, no importa la llicència.
 
 - Es poden connectar directoris de Google Drive a Owncloud?
 
@@ -69,7 +69,7 @@ Si
 
 - I Dropbox?
 
-
+Si
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
