@@ -44,6 +44,8 @@ La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
       Quan el connector està habilitat per a un usuari, aquest usuari pot xifrar qualsevol carpeta buida. 
 
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
+      Perquè emmagatzema les dades al núvol i alli estan segures, també el Tribunal de Justícia de les             Comunitats Europees ha derrocat l'anomenat "Escut de la privacitat" en 2020, cosa que significa que ja       no existeix cap base legal per a transferir dades als Estats Units.
+
 - Això passa a tots els països?
 - Quina és la llicència d'OWncloud Enterprise?
 - I la d'Owncloud Standard?
