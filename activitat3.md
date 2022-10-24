@@ -60,9 +60,21 @@ La llicència Enterprise esta mes enfocada per a empreses, conté un programari 
 La llicència Stantard esta enfocada per a usuaris.
 
 - Es poden veure videos en Streaming directament des de Owncloud?
+
+
+
 - Es poden connectar directoris de Google Drive a Owncloud?
+
+Si
+
 - I Dropbox?
+
+
+
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
+
+Si, es diu Ransomware.
+
 
 **RESPOSTA**
 
