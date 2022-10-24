@@ -48,8 +48,17 @@ La ruta real és: /var/www/html/owncloud/data/ownclouduser/files
 Perquè emmagatzema les dades al núvol i alli estan segures, també el Tribunal de Justícia de les             Comunitats Europees ha derrocat l'anomenat Escut de la privacitat en 2020, cosa que significa que ja       no existeix cap base legal per a transferir dades als Estats Units.
 
 - Això passa a tots els països?
+
+Si, a tots els països que estiguin dins de la Unió Europea
+
 - Quina és la llicència d'OWncloud Enterprise?
+
+La llicència Enterprise esta mes enfocada per a empreses, conté un programari d'edicio enterprise amb una llicència comercial i suport d'empresa professional. 
+
 - I la d'Owncloud Standard?
+
+La llicència Stantard esta enfocada per a usuaris.
+
 - Es poden veure videos en Streaming directament des de Owncloud?
 - Es poden connectar directoris de Google Drive a Owncloud?
 - I Dropbox?
