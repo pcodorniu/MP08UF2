@@ -180,10 +180,10 @@ sudo nano /etc/apache2/sites-available/owncloud.conf
 - Virtualhost *:80 : aixo vol dir que el servidor contestara amb qualsevol ip, pel port 80
 - ServerAdmin: aqui estar el correu de l'administrador del servidor
 - DocumentRoot: es la ruta per defecte
-- ServerName: aqui va el nom del nostre servidor
-- ServerAlias: es un altre nom per al servidor que tambe podem utilitzar per a buscar-lo a internet 
+- ServerName: aqui va el nom del nostre domini
+- ServerAlias: es un altre nom per al domini que tambe podem utilitzar per a buscar-lo a internet 
 
-- Alias /owncloud /var/www/html/owncloud/: li diu a apache2 on si t'estas connectant al teu servidor owncloud.
+- Alias /owncloud /var/www/html/owncloud/: Quan busques owncloud et porta al següent directori
 
 - Directory: tota la configuracio que esta dins del directori s'aplica a aquest
 - Options +Followsymlinks: es una directiva dels servidors d'Apache, serveix per a seguir els enllaços simbolics d'un directori
@@ -240,11 +240,11 @@ Ara ja podem accedir al nostre owncloud
 
 - Què fa la comanda a2ensite?
 
-Aquesta comanda el que fa es habilitar un site o proporcionar una llista dels llocs que podem habilitar
+Aquesta comanda el que fa es habilitar un site 
 
 - Què fa la comanda a2dissite?
 
-Aquesta comanda el que fa es deshabilitar un site o proporcionar una llista dels llocs que podem deshabilitar
+Aquesta comanda el que fa es deshabilitar un site 
 
 - Què significa la línia de /etc/hosts?
 
