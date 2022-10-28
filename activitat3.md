@@ -73,7 +73,7 @@ Si
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-Si, es diu Owncloud Anti-Virus.
+Si, es diu ClamAV.
 
 
 **RESPOSTA**
