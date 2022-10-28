@@ -50,6 +50,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/114162276/198659829-43f76b7d-5d51-4396-b6f0-d72eb77b7fea.png)
 
+![image](https://user-images.githubusercontent.com/114162276/198669661-e7723bb4-4781-4011-9c4d-512607193427.png)
+
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
 **RESPOSTA**
