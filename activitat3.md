@@ -52,12 +52,12 @@ Perquè emmagatzema les dades al núvol i alli estan segures, també el Tribunal
 Si, a tots els països que estiguin dins de la Unió Europea
 
 - Quina és la llicència d'OWncloud Enterprise?
-
-La llicència Enterprise esta mes enfocada per a empreses, conté un programari d'edicio enterprise amb una llicència comercial i suport d'empresa professional. 
+ 
+ Es la llicència d'owncloud 
 
 - I la d'Owncloud Standard?
 
-La llicència Stantard esta enfocada per a usuaris.
+Es la llicència d'owncloud
 
 - Es poden veure videos en Streaming directament des de Owncloud?
 
@@ -73,7 +73,7 @@ Si
 
 - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-Si, es diu Ransomware.
+Si, es diu Owncloud Anti-Virus.
 
 
 **RESPOSTA**
