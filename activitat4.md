@@ -32,7 +32,9 @@ Per a que pugui accedir necessitarà:
 
 **RESPOSTA**
 
+![image](https://user-images.githubusercontent.com/114162276/198653807-bc41bc06-9155-4d67-9000-75258483ae46.png)
 
+![image](https://user-images.githubusercontent.com/114162276/198654360-101d6000-4620-460b-860e-798c48e0c25c.png)
 
 **4.4.-** Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
