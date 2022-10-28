@@ -18,13 +18,21 @@ Per a que pugui accedir necessitarà:
 
 **RESPOSTA**
 
+![image](https://user-images.githubusercontent.com/114162276/198641161-ef146986-9048-4d1d-8354-d58d9b3f6e85.png)
+
+![image](https://user-images.githubusercontent.com/114162276/198641985-91851f8c-c6a5-4274-bb70-7efac04ba501.png)
+
 **4.2.-** Inicia sessió com a l'usuari adminXYZ.
 
 **RESPOSTA**
 
+![image](https://user-images.githubusercontent.com/114162276/198645496-3b9efe26-548e-4f1d-b968-49020a1d25ce.png)
+
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
 **RESPOSTA**
+
+
 
 **4.4.-** Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
