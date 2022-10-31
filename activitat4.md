@@ -50,19 +50,23 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/114162276/198659829-43f76b7d-5d51-4396-b6f0-d72eb77b7fea.png)
 
-![image](https://user-images.githubusercontent.com/114162276/198669661-e7723bb4-4781-4011-9c4d-512607193427.png)
-
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
 **RESPOSTA**
+
+![image](https://user-images.githubusercontent.com/114162276/198669661-e7723bb4-4781-4011-9c4d-512607193427.png)
 
 **4.6.-** Busca al teu perfil quin percentatge de quota estas utilitzant.
 
 **RESPOSTA**
 
+![image](https://user-images.githubusercontent.com/114162276/199021836-8cc21040-c367-4d93-9501-fed65479a4a9.png)
+
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
 **RESPOSTA**
+
+![image](https://user-images.githubusercontent.com/114162276/199021989-108ad510-d570-46ac-99bf-a8585dec9928.png)
 
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
