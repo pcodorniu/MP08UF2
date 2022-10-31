@@ -68,6 +68,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/114162276/199021989-108ad510-d570-46ac-99bf-a8585dec9928.png)
 
+![image](https://user-images.githubusercontent.com/114162276/199025295-af545bb9-bfbe-4106-a084-3d440129e032.png)
+
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
 **RESPOSTA**
@@ -79,6 +81,12 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 **4.9.-** Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 
 **RESPOSTA**
+
+![image](https://user-images.githubusercontent.com/114162276/199025630-90cbc7c6-6f7f-4137-814e-fb6e193d81d3.png)
+
+![image](https://user-images.githubusercontent.com/114162276/199025789-9222cc55-f679-407c-b0f8-917773c54b16.png)
+
+![image](https://user-images.githubusercontent.com/114162276/199025931-1695fa00-2e7b-4124-99a3-f9f1bf469b28.png)
 
 **4.10.-** Esborra la carpeta Learn more about owncloud.
 
