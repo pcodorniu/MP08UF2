@@ -122,12 +122,13 @@ Instal·larem una app per a poder afegir contactes
 Una vegada instal·lada ens apareixera a les tres ralles de d'alt a l'esquerra un  nou apartat que es dira contactes, entrem i alli podrem afegir els contactes que vulguem, hi ha diferents apartats que pots emplenar com per exemple el telefon, ciutat, codi postal, adreça, etc. 
 ![image](https://user-images.githubusercontent.com/114162276/199262187-83850431-36d7-4578-9117-eab2ec2049eb.png)
 
-
-
-
-
-
 **RESPOSTA SEGONA APP**
+
+La segona app que instal·larem sera un calendari
+![image](https://user-images.githubusercontent.com/114162276/199262941-30dada06-0895-4dad-bad5-bac1c152086a.png)
+
+Una vegada instal·lada ens apareixera a les tres ralles de d'alt a l'esquerra un nou apartat que es dira calendari, alli ens apareixera un calendari on podrem afegir esdeveniments.
+![image](https://user-images.githubusercontent.com/114162276/199263071-30b136ed-d773-47ff-becd-444bd1814c86.png)
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
