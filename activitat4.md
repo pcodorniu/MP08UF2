@@ -116,6 +116,17 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **RESPOSTA PRIMERA APP**
 
+Instal·larem una app per a poder afegir contactes
+![image](https://user-images.githubusercontent.com/114162276/199262038-e70c0f8f-759a-413a-b6d4-131feb4bbfc2.png)
+
+Una vegada instal·lada ens apareixera a les tres ralles de d'alt a l'esquerra un  nou apartat que es dira contactes, entrem i alli podrem afegir els contactes que vulguem
+![image](https://user-images.githubusercontent.com/114162276/199262187-83850431-36d7-4578-9117-eab2ec2049eb.png)
+
+
+
+
+
+
 **RESPOSTA SEGONA APP**
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
