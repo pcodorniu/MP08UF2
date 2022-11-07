@@ -148,10 +148,11 @@ Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
 ![image](https://user-images.githubusercontent.com/114162276/200338615-c40e1f2e-e135-449c-8346-256f05ca3ea1.png)
 
-
 **4.16.-** Un usuari normal pujarà un fitxer a la carpeta public.
 
 **RESPOSTA**
+
+![image](https://user-images.githubusercontent.com/114162276/200343943-3f143859-bf7f-459a-81dc-6fbefec794e2.png)
 
 **OPCIONAL.-** Aquesta tasca és opcional.
 
