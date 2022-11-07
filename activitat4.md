@@ -136,9 +136,18 @@ Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
 **RESPOSTA**
 
+![image](https://user-images.githubusercontent.com/114162276/200334821-ccea0574-0b0f-40d6-b39b-edb1fa0a9267.png)
+
+![image](https://user-images.githubusercontent.com/114162276/200336069-87be10d0-b97b-4b18-a621-468f8447f6fa.png)
+
 **4.15.-** Connectarem la carpeta publicXYZ com emmagatzematge local, tal i com s'indica [aquí](https://doc.owncloud.com/server/next/admin_manual/configuration/files/external_storage/local.html). Tots els usuaris tindran accés a la carpeta.
 
 **RESPOSTA**
+
+![image](https://user-images.githubusercontent.com/114162276/200338116-98e1c7a1-c365-418a-87c1-9d322ef83da9.png)
+
+![image](https://user-images.githubusercontent.com/114162276/200338615-c40e1f2e-e135-449c-8346-256f05ca3ea1.png)
+
 
 **4.16.-** Un usuari normal pujarà un fitxer a la carpeta public.
 
